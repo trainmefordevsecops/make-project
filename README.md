@@ -1,11 +1,14 @@
 # make-project
-make project source code
+Make project source code
 
+## My Online Courses:
+- [DevSecOps](https://tinyurl.com/2p8dxbwn)
+- [DevSecOps Fundamentals](https://shorturl.at/H9kqG)
+- [SonarQube](https://tinyurl.com/mzfukn4p)
+- [Serverless](https://tinyurl.com/st5xde5z)
+- [Docker](https://tinyurl.com/2ffv8yjn)
+- [CI/CD Jenkins Master](https://rb.gy/u0ygq)
+- [Free Linux Course: Introduction to Linux Crash Course](https://www.udemy.com/course/introduction-to-linux-crash-course)
 
-all courses links:
-
-#DevSecOps #DevOps https://www.udemy.com/course/devsecops
-
-#SonarQube #infosec #security #sast #devops #devsecops https://www.udemy.com/course/sonarqube-master-sonarqube-within-a-few-hours-2020
-
-#google #cloud #serverless #devops #devsecops #computing https://www.udemy.com/course/google-cloud-serverless
+### Tags:
+#DevSecOps #DevOps #SonarQube #infosec #security #sast #serverless #cloud #computing #CI/CD #Jenkins #Docker
